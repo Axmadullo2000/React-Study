@@ -1,0 +1,15 @@
+.newsCreator {
+    display: flex;
+    flex-direction: column;
+    width: 800px;
+    margin: 20px auto;
+}
+
+.newsCreator input {
+    border: 1px solid silver;
+    margin-bottom: 20px;
+}
+
+.newsCreator textarea {
+    margin-bottom: 20px;
+}
